@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "Repair what you can — but when you must fail, fail noisily and as soon as possible.",
   "main": "index.js",
-  "dependancies": {
+  "dependencies": {
     "ar-drone": "0.x.x"
   },
   "scripts": {
