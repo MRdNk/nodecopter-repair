@@ -4,7 +4,6 @@
 */
 
 var repair = function (client, opts) {
-  console.log('repair')
   var opts = opts || {}
   opts.killafter = opts.killafter || 1000
 
